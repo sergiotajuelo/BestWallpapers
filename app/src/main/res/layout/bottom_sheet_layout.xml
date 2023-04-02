@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rounded_shape">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="@string/choose"
+        android:textColor="?attr/textColors"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="15dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/product_sans_bold"/>
+
+    <LinearLayout
+        android:id="@+id/lock"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginBottom="10dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_favorite_activado"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pantalla_de_bloqueo"
+            android:layout_marginStart="30dp"
+            android:textSize="16sp"
+            android:fontFamily="@font/product_sans_regular"
+            android:layout_gravity="center_vertical"
+            android:textColor="?attr/colorHintGrey"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/main"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:layout_marginBottom="10dp">
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/main_screen"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pantalla_principal"
+            android:layout_marginStart="30dp"
+            android:textSize="16sp"
+            android:fontFamily="@font/product_sans_regular"
+            android:layout_gravity="center_vertical"
+            android:textColor="?attr/colorHintGrey"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/both"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:layout_marginBottom="10dp">
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/both_screens"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/establecer_en_ambas"
+            android:layout_marginStart="30dp"
+            android:textSize="16sp"
+            android:fontFamily="@font/product_sans_regular"
+            android:layout_gravity="center_vertical"
+            android:textColor="?attr/colorHintGrey"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/close"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp">
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_delete"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cerrar"
+            android:layout_marginStart="30dp"
+            android:textSize="16sp"
+            android:fontFamily="@font/product_sans_regular"
+            android:layout_gravity="center_vertical"
+            android:textColor="?attr/colorHintGrey"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

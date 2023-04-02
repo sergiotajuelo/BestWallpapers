@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654696993042",
+    "project_id": "bestwallpapers-1d9b2",
+    "storage_bucket": "bestwallpapers-1d9b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654696993042:android:17c6bcae06b7ef90ffa3cb",
+        "android_client_info": {
+          "package_name": "com.sergiotajuelo.bestwallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654696993042-p8kmcp75gn8n453j1kmshoaahrko0eu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_1oMFqhUIaYi61ogUlkqIYHJj-3bbnp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654696993042-p8kmcp75gn8n453j1kmshoaahrko0eu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

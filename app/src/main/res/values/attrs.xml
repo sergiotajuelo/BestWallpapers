@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BestWallpapers">
+        <attr name="primaryTextColor" format="color"/>
+        <attr name="secondaryTextColor" format="color"/>
+        <attr name="dividerColor" format="color"/>
+        <attr name="backgroundCardColor" format="color"/>
+        <attr name="iconPlaceholder" format="integer"/>
+        <attr name="bottomNavigation" format="integer"/>
+        <attr name="textColors" format="integer"/>
+        <attr name="colorHintGrey" format="integer"/>
+        <attr name="buscador" format="integer"/>
+
+        <attr name="color_fondo" format="integer"/>
+        <attr name="toolbar2" format="integer"/>
+        <attr name="objects" format="integer"/>
+
+        <attr name="slider" format="integer"/>
+    </declare-styleable>
+</resources>

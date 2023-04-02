@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/both_screens.xml" value="0.3768518518518518" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/button_favorite_black.xml" value="0.36574074074074076" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/editar.xml" value="0.3769230769230769" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/favorite_activado.xml" value="0.36574074074074076" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/ic_back.xml" value="0.22239583333333332" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/ic_check.xml" value="0.3768518518518518" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/ic_delete.xml" value="0.3768518518518518" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/ic_descargar.xml" value="0.18728070175438596" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/ic_establecer_wallpaper.xml" value="0.18728070175438596" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/ic_favorite_activado.xml" value="0.36574074074074076" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/ic_favorite_desactivado.xml" value="0.18728070175438596" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/ic_favorite_desactivado_black.xml" value="0.36574074074074076" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/ic_forgot_password.xml" value="0.362962962962963" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/ic_mail.xml" value="0.22135416666666666" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/ic_password.xml" value="0.22135416666666666" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/ic_person.xml" value="0.22135416666666666" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/ic_search.xml" value="0.37592592592592594" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/ic_search_image.xml" value="0.35833333333333334" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/main_screen.xml" value="0.3768518518518518" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/mejorar_cuenta.xml" value="0.3769230769230769" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/toggle_off.xml" value="0.35833333333333334" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/toggle_on.xml" value="0.35833333333333334" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/white_border.xml" value="0.35462962962962963" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-anydpi/white_border_rounded.xml" value="0.22239583333333332" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-hdpi/ic_delete_white.xml" value="0.3768518518518518" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-v24/white_border_rounded.xml" value="0.3181818181818182" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-xhdpi/rounded_shape.xml" value="0.3181818181818182" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-xhdpi/rounded_shape_transparent.xml" value="0.3181818181818182" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-xhdpi/rounded_white.xml" value="0.3181818181818182" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-xxxhdpi/blurry_background.xml" value="0.18728070175438596" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable-xxxhdpi/rounded_shape_white.xml" value="0.3181818181818182" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable/all_circle_white_bg.xml" value="0.22239583333333332" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable/background_circle.xml" value="0.36203703703703705" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable/button_favorite.xml" value="0.36574074074074076" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable/card.xml" value="0.37592592592592594" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable/circular_bordershape.xml" value="0.3181818181818182" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable/gradient.xml" value="0.18728070175438596" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable/instagram.xml" value="0.22239583333333332" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable/ripple.xml" value="0.37592592592592594" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable/rounded_shape.xml" value="0.3181818181818182" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable/rounded_shape_follow_button.xml" value="0.18728070175438596" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable/toggle_selector.xml" value="0.35833333333333334" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable/transparent_to_black_fade.xml" value="0.22" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable/twitter.xml" value="0.22239583333333332" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/drawable/white_border_rounded.xml" value="0.35185185185185186" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/activity_categoria_especifica.xml" value="0.3523550724637681" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/activity_following_user.xml" value="0.25" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/activity_following_users.xml" value="0.20625" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/activity_full_screen.xml" value="0.33" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/activity_main.xml" value="0.3087719298245614" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/activity_new_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/activity_profile.xml" value="0.21" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/activity_recuperar_contrasenya.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/custom_alert_dialog.xml" value="0.33" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/fragment_blank.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/fragment_explorar.xml" value="0.33" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/fragment_following_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/fragment_home_screen.xml" value="0.33" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/fragment_log_out_dialog.xml" value="0.33" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/fragment_settings.xml" value="0.33" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/recyclerview_categoria_especifica.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/recyclerview_child.xml" value="0.35733695652173914" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/splash_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/sugeridos_item.xml" value="0.3087719298245614" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/user_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/wallpaper_item.xml" value="0.18" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/wallpaper_item_grande.xml" value="0.3087719298245614" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/layout/wallpaper_item_perfil.xml" value="0.3087719298245614" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/menu/navigation.xml" value="0.3087719298245614" />
+        <entry key="..\:/Android/BestWallpapers Unplash/app/src/main/res/xml/preference_main.xml" value="0.33" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/drawable-anydpi/ic_back.xml" value="0.3769230769230769" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/drawable-anydpi/ic_descargar.xml" value="0.3769230769230769" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/drawable-anydpi/ic_favorite_activado.xml" value="0.3181818181818182" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/drawable-anydpi/ic_verified.xml" value="0.3769230769230769" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/drawable-xxxhdpi/rounded_shape_white.xml" value="0.18728070175438596" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/drawable/bottom_navigation_corners.xml" value="0.3828125" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/drawable/bottom_navigation_shape.xml" value="0.22239583333333332" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/drawable/card.xml" value="0.3828125" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/drawable/gradient.xml" value="0.3769230769230769" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/drawable/gradient_color.xml" value="0.3769230769230769" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/drawable/ripple.xml" value="0.3828125" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/drawable/rounded_shape.xml" value="0.3769230769230769" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/layout/activity_categoria_especifica.xml" value="0.20572916666666666" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/layout/activity_full_screen.xml" value="0.25" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/layout/activity_splash_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.33" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/layout/fragment_explorar.xml" value="0.25" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/layout/fragment_explorar_fragments.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/layout/fragment_home_screen.xml" value="0.25" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/layout/fragment_query_explorar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/layout/fragment_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/layout/recyclerview_categoria_especifica.xml" value="0.1736842105263158" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/layout/recyclerview_child.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/layout/recyclerview_child_query.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/layout/splash_screen.xml" value="0.1736842105263158" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/layout/sugerido_item_card.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/layout/sugeridos_item.xml" value="0.5" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/layout/wallpaper_card.xml" value="0.33" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/layout/wallpaper_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/layout/wallpaper_item_grande.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/BestWallpapers/app/src/main/res/menu/navigation.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
